@@ -16,7 +16,6 @@ Pygments==2.10.0
 pyodbc==4.0.32
 pypiwin32==223
 PyQt6==6.3.0
-PyQt6-Qt6==6.3.0
 PyQt6-sip==13.3.1
 PySide2==5.15.2.1
 PySimpleGUI==4.55.1
